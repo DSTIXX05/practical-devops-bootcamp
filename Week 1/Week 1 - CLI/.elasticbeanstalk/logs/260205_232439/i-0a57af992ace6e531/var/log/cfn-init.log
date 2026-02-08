@@ -1,0 +1,45 @@
+2026-02-05 18:36:56,373 [INFO] -----------------------Starting build-----------------------
+2026-02-05 18:36:56,378 [INFO] Running configSets: _OnInstanceBoot
+2026-02-05 18:36:56,380 [INFO] Running configSet _OnInstanceBoot
+2026-02-05 18:36:56,382 [INFO] Running config AWSEBBaseConfig
+2026-02-05 18:36:56,608 [INFO] Command clearbackupfiles succeeded
+2026-02-05 18:36:56,610 [INFO] Running config AWSEBCfnHupEndpointOverride
+2026-02-05 18:36:56,615 [INFO] Command clearbackupfiles succeeded
+2026-02-05 18:36:56,616 [INFO] ConfigSets completed
+2026-02-05 18:36:56,616 [INFO] -----------------------Build complete-----------------------
+2026-02-05 18:38:03,661 [INFO] -----------------------Starting build-----------------------
+2026-02-05 18:38:03,666 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2026-02-05 18:38:03,668 [INFO] Running configSet Infra-EmbeddedPreBuild
+2026-02-05 18:38:03,670 [INFO] Running config prebuild_0_weatherapp
+2026-02-05 18:38:03,671 [INFO] ConfigSets completed
+2026-02-05 18:38:03,672 [INFO] -----------------------Build complete-----------------------
+2026-02-05 18:38:06,165 [INFO] -----------------------Starting build-----------------------
+2026-02-05 18:38:06,169 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2026-02-05 18:38:06,171 [INFO] Running configSet Infra-EmbeddedPostBuild
+2026-02-05 18:38:06,171 [INFO] ConfigSets completed
+2026-02-05 18:38:06,172 [INFO] -----------------------Build complete-----------------------
+2026-02-05 19:55:33,734 [INFO] -----------------------Starting build-----------------------
+2026-02-05 19:55:33,738 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2026-02-05 19:55:33,739 [INFO] Running configSet Infra-EmbeddedPreBuild
+2026-02-05 19:55:33,740 [INFO] ConfigSets completed
+2026-02-05 19:55:33,740 [INFO] -----------------------Build complete-----------------------
+2026-02-05 22:07:48,556 [INFO] -----------------------Starting build-----------------------
+2026-02-05 22:07:48,560 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2026-02-05 22:07:48,562 [INFO] Running configSet Infra-EmbeddedPreBuild
+2026-02-05 22:07:48,562 [INFO] ConfigSets completed
+2026-02-05 22:07:48,563 [INFO] -----------------------Build complete-----------------------
+2026-02-05 22:07:51,436 [INFO] -----------------------Starting build-----------------------
+2026-02-05 22:07:51,440 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2026-02-05 22:07:51,442 [INFO] Running configSet Infra-EmbeddedPostBuild
+2026-02-05 22:07:51,443 [INFO] ConfigSets completed
+2026-02-05 22:07:51,443 [INFO] -----------------------Build complete-----------------------
+2026-02-05 22:24:03,867 [INFO] -----------------------Starting build-----------------------
+2026-02-05 22:24:03,872 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2026-02-05 22:24:03,874 [INFO] Running configSet Infra-EmbeddedPreBuild
+2026-02-05 22:24:03,874 [INFO] ConfigSets completed
+2026-02-05 22:24:03,874 [INFO] -----------------------Build complete-----------------------
+2026-02-05 22:24:06,916 [INFO] -----------------------Starting build-----------------------
+2026-02-05 22:24:06,921 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2026-02-05 22:24:06,923 [INFO] Running configSet Infra-EmbeddedPostBuild
+2026-02-05 22:24:06,924 [INFO] ConfigSets completed
+2026-02-05 22:24:06,924 [INFO] -----------------------Build complete-----------------------

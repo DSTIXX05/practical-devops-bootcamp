@@ -1,0 +1,102 @@
+Feb  5 18:38:07 ip-172-31-29-87 web[2087]: warn: Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager[35]
+Feb  5 18:38:07 ip-172-31-29-87 web[2087]:      No XML encryptor configured. Key {e1de53f8-6c18-4f49-bdd6-6c9f40ab4bc3} may be persisted to storage in unencrypted form.
+Feb  5 18:38:08 ip-172-31-29-87 web[2087]: info: Microsoft.Hosting.Lifetime[14]
+Feb  5 18:38:08 ip-172-31-29-87 web[2087]:      Now listening on: http://localhost:5000
+Feb  5 18:38:08 ip-172-31-29-87 web[2087]: info: Microsoft.Hosting.Lifetime[0]
+Feb  5 18:38:08 ip-172-31-29-87 web[2087]:      Application started. Press Ctrl+C to shut down.
+Feb  5 18:38:08 ip-172-31-29-87 web[2087]: info: Microsoft.Hosting.Lifetime[0]
+Feb  5 18:38:08 ip-172-31-29-87 web[2087]:      Hosting environment: Production
+Feb  5 18:38:08 ip-172-31-29-87 web[2087]: info: Microsoft.Hosting.Lifetime[0]
+Feb  5 18:38:08 ip-172-31-29-87 web[2087]:      Content root path: /var/app/current
+Feb  5 22:07:52 ip-172-31-29-87 web[2087]: info: Microsoft.Hosting.Lifetime[0]
+Feb  5 22:07:52 ip-172-31-29-87 web[2087]:      Application is shutting down...
+Feb  5 22:07:53 ip-172-31-29-87 web[9553]: The command could not be loaded, possibly because:
+Feb  5 22:07:53 ip-172-31-29-87 web[9553]:  * You intended to execute a .NET application:
+Feb  5 22:07:53 ip-172-31-29-87 web[9553]:      The application './app/AWSCodePipelineDemo.dll' does not exist.
+Feb  5 22:07:53 ip-172-31-29-87 web[9553]:  * You intended to execute a .NET SDK command:
+Feb  5 22:07:53 ip-172-31-29-87 web[9553]:      No .NET SDKs were found.
+Feb  5 22:07:53 ip-172-31-29-87 web[9553]: Download a .NET SDK:
+Feb  5 22:07:53 ip-172-31-29-87 web[9553]: https://aka.ms/dotnet/download
+Feb  5 22:07:53 ip-172-31-29-87 web[9553]: Learn about SDK resolution:
+Feb  5 22:07:53 ip-172-31-29-87 web[9553]: https://aka.ms/dotnet/sdk-not-found
+Feb  5 22:07:54 ip-172-31-29-87 web[9560]: The command could not be loaded, possibly because:
+Feb  5 22:07:54 ip-172-31-29-87 web[9560]:  * You intended to execute a .NET application:
+Feb  5 22:07:54 ip-172-31-29-87 web[9560]:      The application './app/AWSCodePipelineDemo.dll' does not exist.
+Feb  5 22:07:54 ip-172-31-29-87 web[9560]:  * You intended to execute a .NET SDK command:
+Feb  5 22:07:54 ip-172-31-29-87 web[9560]:      No .NET SDKs were found.
+Feb  5 22:07:54 ip-172-31-29-87 web[9560]: Download a .NET SDK:
+Feb  5 22:07:54 ip-172-31-29-87 web[9560]: https://aka.ms/dotnet/download
+Feb  5 22:07:54 ip-172-31-29-87 web[9560]: Learn about SDK resolution:
+Feb  5 22:07:54 ip-172-31-29-87 web[9560]: https://aka.ms/dotnet/sdk-not-found
+Feb  5 22:07:54 ip-172-31-29-87 web[9568]: The command could not be loaded, possibly because:
+Feb  5 22:07:54 ip-172-31-29-87 web[9568]:  * You intended to execute a .NET application:
+Feb  5 22:07:54 ip-172-31-29-87 web[9568]:      The application './app/AWSCodePipelineDemo.dll' does not exist.
+Feb  5 22:07:54 ip-172-31-29-87 web[9568]:  * You intended to execute a .NET SDK command:
+Feb  5 22:07:54 ip-172-31-29-87 web[9568]:      No .NET SDKs were found.
+Feb  5 22:07:54 ip-172-31-29-87 web[9568]: Download a .NET SDK:
+Feb  5 22:07:54 ip-172-31-29-87 web[9568]: https://aka.ms/dotnet/download
+Feb  5 22:07:54 ip-172-31-29-87 web[9568]: Learn about SDK resolution:
+Feb  5 22:07:54 ip-172-31-29-87 web[9568]: https://aka.ms/dotnet/sdk-not-found
+Feb  5 22:07:54 ip-172-31-29-87 web[9573]: The command could not be loaded, possibly because:
+Feb  5 22:07:54 ip-172-31-29-87 web[9573]:  * You intended to execute a .NET application:
+Feb  5 22:07:54 ip-172-31-29-87 web[9573]:      The application './app/AWSCodePipelineDemo.dll' does not exist.
+Feb  5 22:07:54 ip-172-31-29-87 web[9573]:  * You intended to execute a .NET SDK command:
+Feb  5 22:07:54 ip-172-31-29-87 web[9573]:      No .NET SDKs were found.
+Feb  5 22:07:54 ip-172-31-29-87 web[9573]: Download a .NET SDK:
+Feb  5 22:07:54 ip-172-31-29-87 web[9573]: https://aka.ms/dotnet/download
+Feb  5 22:07:54 ip-172-31-29-87 web[9573]: Learn about SDK resolution:
+Feb  5 22:07:54 ip-172-31-29-87 web[9573]: https://aka.ms/dotnet/sdk-not-found
+Feb  5 22:07:54 ip-172-31-29-87 web[9578]: The command could not be loaded, possibly because:
+Feb  5 22:07:54 ip-172-31-29-87 web[9578]:  * You intended to execute a .NET application:
+Feb  5 22:07:54 ip-172-31-29-87 web[9578]:      The application './app/AWSCodePipelineDemo.dll' does not exist.
+Feb  5 22:07:54 ip-172-31-29-87 web[9578]:  * You intended to execute a .NET SDK command:
+Feb  5 22:07:54 ip-172-31-29-87 web[9578]:      No .NET SDKs were found.
+Feb  5 22:07:54 ip-172-31-29-87 web[9578]: Download a .NET SDK:
+Feb  5 22:07:54 ip-172-31-29-87 web[9578]: https://aka.ms/dotnet/download
+Feb  5 22:07:54 ip-172-31-29-87 web[9578]: Learn about SDK resolution:
+Feb  5 22:07:54 ip-172-31-29-87 web[9578]: https://aka.ms/dotnet/sdk-not-found
+Feb  5 22:24:08 ip-172-31-29-87 web[10488]: The command could not be loaded, possibly because:
+Feb  5 22:24:08 ip-172-31-29-87 web[10488]:  * You intended to execute a .NET application:
+Feb  5 22:24:08 ip-172-31-29-87 web[10488]:      The application './app/AWSCodePipelineDemo.dll' does not exist.
+Feb  5 22:24:08 ip-172-31-29-87 web[10488]:  * You intended to execute a .NET SDK command:
+Feb  5 22:24:08 ip-172-31-29-87 web[10488]:      No .NET SDKs were found.
+Feb  5 22:24:08 ip-172-31-29-87 web[10488]: Download a .NET SDK:
+Feb  5 22:24:08 ip-172-31-29-87 web[10488]: https://aka.ms/dotnet/download
+Feb  5 22:24:08 ip-172-31-29-87 web[10488]: Learn about SDK resolution:
+Feb  5 22:24:08 ip-172-31-29-87 web[10488]: https://aka.ms/dotnet/sdk-not-found
+Feb  5 22:24:08 ip-172-31-29-87 web[10497]: The command could not be loaded, possibly because:
+Feb  5 22:24:08 ip-172-31-29-87 web[10497]:  * You intended to execute a .NET application:
+Feb  5 22:24:08 ip-172-31-29-87 web[10497]:      The application './app/AWSCodePipelineDemo.dll' does not exist.
+Feb  5 22:24:08 ip-172-31-29-87 web[10497]:  * You intended to execute a .NET SDK command:
+Feb  5 22:24:08 ip-172-31-29-87 web[10497]:      No .NET SDKs were found.
+Feb  5 22:24:08 ip-172-31-29-87 web[10497]: Download a .NET SDK:
+Feb  5 22:24:08 ip-172-31-29-87 web[10497]: https://aka.ms/dotnet/download
+Feb  5 22:24:08 ip-172-31-29-87 web[10497]: Learn about SDK resolution:
+Feb  5 22:24:08 ip-172-31-29-87 web[10497]: https://aka.ms/dotnet/sdk-not-found
+Feb  5 22:24:08 ip-172-31-29-87 web[10503]: The command could not be loaded, possibly because:
+Feb  5 22:24:08 ip-172-31-29-87 web[10503]:  * You intended to execute a .NET application:
+Feb  5 22:24:08 ip-172-31-29-87 web[10503]:      The application './app/AWSCodePipelineDemo.dll' does not exist.
+Feb  5 22:24:08 ip-172-31-29-87 web[10503]:  * You intended to execute a .NET SDK command:
+Feb  5 22:24:08 ip-172-31-29-87 web[10503]:      No .NET SDKs were found.
+Feb  5 22:24:08 ip-172-31-29-87 web[10503]: Download a .NET SDK:
+Feb  5 22:24:08 ip-172-31-29-87 web[10503]: https://aka.ms/dotnet/download
+Feb  5 22:24:08 ip-172-31-29-87 web[10503]: Learn about SDK resolution:
+Feb  5 22:24:08 ip-172-31-29-87 web[10503]: https://aka.ms/dotnet/sdk-not-found
+Feb  5 22:24:09 ip-172-31-29-87 web[10509]: The command could not be loaded, possibly because:
+Feb  5 22:24:09 ip-172-31-29-87 web[10509]:  * You intended to execute a .NET application:
+Feb  5 22:24:09 ip-172-31-29-87 web[10509]:      The application './app/AWSCodePipelineDemo.dll' does not exist.
+Feb  5 22:24:09 ip-172-31-29-87 web[10509]:  * You intended to execute a .NET SDK command:
+Feb  5 22:24:09 ip-172-31-29-87 web[10509]:      No .NET SDKs were found.
+Feb  5 22:24:09 ip-172-31-29-87 web[10509]: Download a .NET SDK:
+Feb  5 22:24:09 ip-172-31-29-87 web[10509]: https://aka.ms/dotnet/download
+Feb  5 22:24:09 ip-172-31-29-87 web[10509]: Learn about SDK resolution:
+Feb  5 22:24:09 ip-172-31-29-87 web[10509]: https://aka.ms/dotnet/sdk-not-found
+Feb  5 22:24:09 ip-172-31-29-87 web[10514]: The command could not be loaded, possibly because:
+Feb  5 22:24:09 ip-172-31-29-87 web[10514]:  * You intended to execute a .NET application:
+Feb  5 22:24:09 ip-172-31-29-87 web[10514]:      The application './app/AWSCodePipelineDemo.dll' does not exist.
+Feb  5 22:24:09 ip-172-31-29-87 web[10514]:  * You intended to execute a .NET SDK command:
+Feb  5 22:24:09 ip-172-31-29-87 web[10514]:      No .NET SDKs were found.
+Feb  5 22:24:09 ip-172-31-29-87 web[10514]: Download a .NET SDK:
+Feb  5 22:24:09 ip-172-31-29-87 web[10514]: https://aka.ms/dotnet/download
+Feb  5 22:24:09 ip-172-31-29-87 web[10514]: Learn about SDK resolution:
+Feb  5 22:24:09 ip-172-31-29-87 web[10514]: https://aka.ms/dotnet/sdk-not-found
