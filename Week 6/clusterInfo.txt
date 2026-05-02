@@ -1,0 +1,79 @@
+{
+    "cluster": {
+        "name": "ecommerce-cluster",
+        "arn": "arn:aws:eks:us-east-1:471112980487:cluster/ecommerce-cluster",
+        "createdAt": "2026-05-02T16:17:05.576000+01:00",
+        "version": "1.34",
+        "endpoint": "https://B79E6EF02319404DF5C986E9877CDC43.gr7.us-east-1.eks.amazonaws.com",
+        "roleArn": "arn:aws:iam::471112980487:role/eksctl-ecommerce-cluster-cluster-ServiceRole-DPPw3DBHuVZ7",
+        "resourcesVpcConfig": {
+            "subnetIds": [
+                "subnet-01b7a1973300c16fa",
+                "subnet-02e9b12ab2dcbf4fe",
+                "subnet-069c701d93b7576f6",
+                "subnet-00415737b37277113"
+            ],
+            "securityGroupIds": [
+                "sg-022e1b321036dfc34"
+            ],
+            "clusterSecurityGroupId": "sg-0bdeb07cb89441598",
+            "vpcId": "vpc-0b7d887e9a1f84a1c",
+            "endpointPublicAccess": true,
+            "endpointPrivateAccess": false,
+            "publicAccessCidrs": [
+                "0.0.0.0/0"
+            ]
+        },
+        "kubernetesNetworkConfig": {
+            "serviceIpv4Cidr": "10.100.0.0/16",
+            "ipFamily": "ipv4",
+            "elasticLoadBalancing": {
+                "enabled": false
+            }
+        },
+        "logging": {
+            "clusterLogging": [
+                {
+                    "types": [
+                        "api",
+                        "audit",
+                        "authenticator",
+                        "controllerManager",
+                        "scheduler"
+                    ],
+                    "enabled": false
+                }
+            ]
+        },
+        "identity": {
+            "oidc": {
+                "issuer": "https://oidc.eks.us-east-1.amazonaws.com/id/B79E6EF02319404DF5C986E9877CDC43"
+            }
+        },
+        "status": "ACTIVE",
+        "certificateAuthority": {
+            "data": "LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSURCVENDQWUyZ0F3SUJBZ0lJSjI3b2l4cHA0Wll3RFFZSktvWklodmNOQVFFTEJRQXdGVEVUTUJFR0ExVUUKQXhNS2EzVmlaWEp1WlhSbGN6QWVGdzB5TmpBMU1ESXhOVEUzTURSYUZ3MHpOakEwTWpreE5USXlNRFJhTUJVeApFekFSQmdOVkJBTVRDbXQxWW1WeWJtVjBaWE13Z2dFaU1BMEdDU3FHU0liM0RRRUJBUVVBQTRJQkR3QXdnZ0VLCkFvSUJBUUMzMFB6SUFEKzZpc0QvS2htY3cxNGJKL0tUQmJkdVZEeVUweGROMEdIUzMyL1dMbXN0ZWM3Nmd1NUwKcGpoOUNnTVdFNmZFeVdhSmhIdW9HWUdORmwxSkhPTWpmcnBJTHBtVWZ3SXpOOVJKV2c0YzJtWHhRR0VQak1qbQpJanYvYVdTMWZIcURVOG9pWXl6VGFUUWYzY2I0R0lVcVh0K3dla0xvcjV2REszT2tNcXlpbzdVb1pYYlZYZkVnCjB1N3lOZk5vR0FxMVhneEVDNkw1UHh5dUQ5eGhXbUZzK0ZzaWR5dHp0N1F0OUlMaUhDNDRnM0FhNmNLa3VEUGcKNEpxaUtVZFhhWUo0VEZmdW5iSXJuREo0VGtqM0xTMDJCWEs4UGdOSG93cWxwTmY3b1Zjd2MrMU5OdUcyYWtRVQptQjNTQmlOOFM1WkpHOVYyalVZL01RSmRmaGMzQWdNQkFBR2pXVEJYTUE0R0ExVWREd0VCL3dRRUF3SUNwREFQCkJnTlZIUk1CQWY4RUJUQURBUUgvTUIwR0ExVWREZ1FXQkJTSW5mcXJoaGxjUFhQcnBra3FKdC9Mdm90aGFqQVYKQmdOVkhSRUVEakFNZ2dwcmRXSmxjbTVsZEdWek1BMEdDU3FHU0liM0RRRUJDd1VBQTRJQkFRQjhNMEhwc2daTApSU3I5enk5ZmJlRGFLYzJUemd4M0ZOVUFUMldHT2RESUF6MytQdndRWUpiMnBIRVNXN3BrZ2Z4SjdGZjlaY2ZDCjdQNDFaWVIwTWhzY091R3BLWmJqN2QxVUp6UCtUcVRHTXBFT0VHT1BMcjRCYW9sRDNQTmdjalAyZzBkYUVPTE8KTFZBVnZtWjFTV0NnZ2hOWkFtUTZlRkxObkhIZVZmMm1HSXFnbnB1ZlY3elJKWGtzU3ZZbnVRZXA0MmhyMTVyQQpuZ29yMU5mTXJ4QkNpSTVlcEtTMmhoVmc0RG9iNDMxVFVqV0t2eUxVTmoxaTJTcWFOeStVaC9xUkZBSmhmMFo2CnREQlU0eUJPRitnN2VCbzJFaE9NUHBObGJzc2U3THo2cmViYUZCay9kNElOajhhL0x2K3F2MHpQc0lhc1FPZW4KYW4xWENEZ1pMNEJpCi0tLS0tRU5EIENFUlRJRklDQVRFLS0tLS0K"
+        },
+        "platformVersion": "eks.21",
+        "tags": {
+            "aws:cloudformation:stack-name": "eksctl-ecommerce-cluster-cluster",
+            "alpha.eksctl.io/cluster-name": "ecommerce-cluster",
+            "aws:cloudformation:stack-id": "arn:aws:cloudformation:us-east-1:471112980487:stack/eksctl-ecommerce-cluster-cluster/df4d47a0-4639-11f1-a109-125e16c349cb",
+            "eksctl.cluster.k8s.io/v1alpha1/cluster-name": "ecommerce-cluster",
+            "alpha.eksctl.io/cluster-oidc-enabled": "false",
+            "aws:cloudformation:logical-id": "ControlPlane",
+            "alpha.eksctl.io/eksctl-version": "0.226.0",
+            "Name": "eksctl-ecommerce-cluster-cluster/ControlPlane"
+        },
+        "accessConfig": {
+            "authenticationMode": "API_AND_CONFIG_MAP"
+        },
+        "upgradePolicy": {
+            "supportType": "EXTENDED"
+        },
+        "deletionProtection": false,
+        "controlPlaneScalingConfig": {
+            "tier": "standard"
+        }
+    }
+}

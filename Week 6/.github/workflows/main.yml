@@ -1,0 +1,17 @@
+name: Git Actions CI
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: check out repository code
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+
+      - name: Run one-line script
+        run: echo "Just tesing my one line."
+
+      - name: Check node version
+        run: node -V
